@@ -2,7 +2,7 @@
 Hi, I'm a JavaScript and Java engineer. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,java,html,css,jquery,nodejs,react,nextjs,sass,firebase,mongo,aws,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,java,html,css,jquery,nodejs,react,nextjs,sass,firebase,mongo,aws,vercel,git,github" />
 
 
 ## 📈 Status
