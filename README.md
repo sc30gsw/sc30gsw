@@ -1,9 +1,8 @@
 ## 🌕 About sc30gsw
 Hi, I'm a JavaScript and Java engineer. 🤝
 
-### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,vercel,nextjs,nextauth,tailwindcss,remix,react,prisma,nodejs,js,planetscale,supabase,mongo,docker,graphql,apollo,ruby,rails,figma,html,css,sass,firebase,postgresql,mysql,aws,git,github,java,spring" />
-
+## ✨ my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,js,ts,nodejs,java,react,nextjs,remix,gatsby,tailwindcss,materialui,styledcomponents,express,nestjs,spring,npm,yarn,pnpm,vite,graphql,apollo,prisma,planetscale,supabase,firebase,mongo,postgresql,mysql,docker,vercel,aws,git,github,figma,vscode,eclipse" />
 
 ## 📈 Status
 
