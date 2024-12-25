@@ -1,5 +1,6 @@
 ## 🌕 About sc30gsw
-Hi, I'm a JavaScript and Java engineer. 🤝
+Hi, I'm a TypeScript engineer. 🤝
+Especially, I'm good at with TypeScript, React, Next.js and Tailwind CSS
 
 ## ✨ my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,js,ts,nodejs,java,kotlin,react,nextjs,remix,gatsby,tailwindcss,materialui,styledcomponents,express,spring,npm,yarn,pnpm,vite,graphql,apollo,prisma,planetscale,supabase,firebase,mongo,postgresql,mysql,docker,vercel,aws,git,github,figma,vscode,eclipse" />
