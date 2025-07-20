@@ -3,7 +3,7 @@ Hi, I'm a TypeScript engineer. 🤝
 Especially, I'm good at with TypeScript, React, Next.js and Tailwind CSS
 
 ## ✨ my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nextjs,react,remix,ts,js,express,nodejs,tailwindcss,materialui,styledcomponents,html,css,sass,java,kotlin,spring,bun,pnpm,yarn,npm,vite,vitest,graphql,apollo,prisma,planetscale,supabase,firebase,mongo,sqlite,postgresql,mysql,docker,vercel,aws,gcp,git,github,githubactions,gitlab,figma,vscode,eclipse,gmail,ai,androidstudio,apple" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nextjs,react,remix,ts,js,express,nodejs,tailwindcss,materialui,styledcomponents,html,css,sass,java,kotlin,spring,bun,pnpm,yarn,npm,vite,vitest,jest,graphql,apollo,prisma,planetscale,supabase,firebase,mongo,sqlite,postgresql,mysql,docker,vercel,aws,gcp,git,github,githubactions,gitlab,figma,vscode,eclipse,gmail,ai,androidstudio,apple" />
 
 ## 📈 Status
 
