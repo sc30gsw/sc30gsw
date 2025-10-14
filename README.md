@@ -18,7 +18,7 @@ Especially, I'm good at with TypeScript, React, Next.js and Tailwind CSS
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
 
 ## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sc30gsw&margin-w=5)](https://github.com/sc30gsw/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sc30gsw&margin-w=5)]
 
 <!--
 **sc30gsw/sc30gsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
