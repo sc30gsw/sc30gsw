@@ -1,6 +1,7 @@
 ##  About sc30gsw
 Hi, I'm a TypeScript engineer. 🤝
-Especially, I'm good at with TypeScript, React, Next.js and Tailwind CSS
+Especially, I'm good at with TypeScript.
+Speaking of libraries and frameworks, I'm good at React, Next.js, TanStack Start, ElysiaJS, Hono, Convex and Tailwind CSS.
 
 ## ✨ my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nextjs,react,remix,ts,js,express,nodejs,tailwindcss,materialui,styledcomponents,html,css,sass,java,kotlin,spring,bun,pnpm,yarn,npm,vite,vitest,jest,graphql,apollo,prisma,planetscale,supabase,firebase,mongo,sqlite,postgresql,mysql,docker,vercel,cloudflare,aws,gcp,git,github,githubactions,gitlab,figma,vscode,eclipse,gmail,ai,androidstudio,apple,md,notion" />
