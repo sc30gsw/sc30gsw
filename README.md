@@ -17,19 +17,3 @@ Speaking of libraries and frameworks, I'm good at React, Next.js, TanStack Start
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sc30gsw&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sc30gsw&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sc30gsw&theme=gruvbox&utcOffset=9)
-
-## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sc30gsw)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**sc30gsw/sc30gsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🙌 I’m looking for help with [grow-files](https://github.com/tsuki-lab/grow-files) and [microcms-filter-query](https://github.com/tsuki-lab/microcms-filter-query)
--->
