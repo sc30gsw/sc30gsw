@@ -19,7 +19,7 @@ Speaking of libraries and frameworks, I'm good at React, Next.js, TanStack Start
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sc30gsw&theme=gruvbox&utcOffset=9)
 
 ## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sc30gsw&margin-w=5)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=sc30gsw)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sc30gsw/sc30gsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
